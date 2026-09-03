@@ -1,0 +1,45 @@
+---
+layout: default
+title: Fire & Ice
+permalink: /fire-and-ice/
+---
+
+<section class="hero">
+  <div class="wrap">
+    <h1>Walk on Fire, Swim in Ice, or both!</h1>
+    <p class="lede">Push your limits for Project Possibility on Saturday 7th March 2026 at Ware Lido</p>
+  </div>
+</section>
+
+<div class="page-content">
+
+## Are you ready to do something extraordinary?
+
+Join us for an unforgettable fundraising event where you'll walk barefoot across burning hot coals, or plunge into an ice-cold swim at Ware Lido, or take on both challenges back-to-back.
+
+This isn't just about raising money (though we desperately need your support). It's about proving to yourself that the impossible is possible when we put our minds to it.
+
+## Two Challenges, One Mission
+
+<div class="two-col">
+  <div>
+    <h3>🔥 The Fire Walk</h3>
+    <p>Walk barefoot across a bed of burning hot coals, guided by experienced facilitators. This ancient practice is equal parts mental challenge and physical achievement, and you'll discover strength you didn't know you had.</p>
+  </div>
+  <div>
+    <h3>❄️ The Ice Swim</h3>
+    <p>Take the plunge into the icy waters of Ware Lido. Cold water swimming has incredible health benefits, but more importantly, it requires courage, the same courage we want to inspire in young people.</p>
+  </div>
+</div>
+
+## Travel info
+
+Ware is a direct train from London Liverpool Street, and Ware Lido is 10-15 mins walk from Ware station.
+
+There is a car park if you're driving to the event. It is easily accessible from Watford, Luton or Chelmsford, and approximately 1hr drive from Milton Keynes, for example.
+
+<div class="callout">
+  <a class="btn btn-ice" href="{{ site.justgiving_url }}">Sign Up</a>
+</div>
+
+</div>

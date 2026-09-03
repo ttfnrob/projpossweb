@@ -1,0 +1,20 @@
+title: Project Possibility
+description: "Helping young people believe in themselves and each other, through events that combine science, technology, and the arts."
+url: "https://www.projectpossibility.uk"
+baseurl: ""
+
+charity_number: "1205365"
+contact_email: "contact@projectpossibility.uk"
+justgiving_url: "https://www.justgiving.com/project-possibility"
+instagram_url: "https://www.instagram.com/projectpossibilityuk/"
+facebook_url: "https://www.facebook.com/projectpossibilityUK"
+
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
