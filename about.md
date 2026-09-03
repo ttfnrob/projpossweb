@@ -13,6 +13,17 @@ description: "Project Possibility is a UK charity (no. 1205365) helping young pe
   </div>
 </section>
 
+<section class="section-white">
+  <div class="wrap">
+    <div class="mission-statement">
+      <p class="eyebrow">Our mission</p>
+      <blockquote>
+        <p>Project Possibility helps young people believe in themselves and each other.</p>
+      </blockquote>
+    </div>
+  </div>
+</section>
+
 <div class="page-content" markdown="1">
 
 We organise inspiring events that promote a healthy belief in the impossible, through science, technology, and the arts.
@@ -25,11 +36,13 @@ We partner with schools and community groups, and we build the project with the 
 
 Everything we run is free for the children taking part. That's what the fundraising is for.
 
-## Charity details
+## Who runs it
 
-Project Possibility is a registered charity in England and Wales, number **{{ site.charity_number }}**, based in Milton Keynes, Buckinghamshire.
+Project Possibility is a Charitable Incorporated Organisation, registered in England and Wales as charity number **{{ site.charity_number }}** since October 2023. It is based in Milton Keynes, Buckinghamshire.
 
-We use JustGiving as our fundraising platform, so donations go through them directly.
+We have no paid staff. The charity is run by three volunteer trustees, none of whom take any payment from it. You can read more about how we're run, our policies and our finances on our [governance page]({{ '/governance/' | relative_url }}).
+
+We use JustGiving as our fundraising platform, so donations go through them directly and we never handle card payments ourselves.
 
 ## Get in touch
 

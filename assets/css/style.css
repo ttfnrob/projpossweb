@@ -647,3 +647,114 @@ a.card:hover { border-color: var(--orange); }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; scroll-behavior: auto !important; }
 }
+
+/* ---------- Mission statement ---------- */
+.mission-statement { max-width: 46rem; margin-inline: auto; text-align: center; }
+.mission-statement blockquote {
+  margin: 0 0 1.4rem;
+  padding: 0;
+  border: 0;
+}
+.mission-statement blockquote p {
+  font-size: clamp(1.35rem, 5vw, 2rem);
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--ink);
+  margin: 0;
+  position: relative;
+  padding-bottom: 1.1rem;
+}
+/* short orange rule under the mission line, matching the brand accent */
+.mission-statement blockquote p::after {
+  content: "";
+  position: absolute;
+  left: 50%; bottom: 0;
+  transform: translateX(-50%);
+  width: 64px; height: 4px;
+  border-radius: 2px;
+  background: var(--orange);
+}
+.mission-statement > p:not(.eyebrow) {
+  color: var(--grey-text);
+  margin: 0 0 1rem;
+}
+
+/* ---------- Governance cards ---------- */
+.govern-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.6rem 0 2.4rem;
+}
+.govern-card {
+  background: var(--offwhite);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.2rem 1.3rem;
+}
+.govern-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+}
+.govern-card p { margin: 0; color: var(--grey-text); font-size: 0.95rem; }
+
+/* ---------- Tables (governance/finance data) ----------
+   Wrapped in a scroll container so wide tables never break narrow layouts. */
+.page-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2rem 0 1.8rem;
+  font-size: 0.95rem;
+}
+.page-content th,
+.page-content td {
+  text-align: left;
+  padding: 0.7rem 0.8rem;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+.page-content thead th {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--grey-text);
+  border-bottom: 2px solid var(--line);
+}
+.page-content tbody tr:last-child td { border-bottom: 0; }
+.page-content tbody tr:nth-child(even) { background: var(--offwhite); }
+
+/* ---------- Blockquote (general) ---------- */
+.page-content blockquote {
+  margin: 1.4rem 0;
+  padding: 0.2rem 0 0.2rem 1.1rem;
+  border-left: 4px solid var(--orange);
+  color: var(--grey-text);
+}
+.page-content blockquote p:last-child { margin-bottom: 0; }
+
+@media (min-width: 640px) {
+  .govern-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* The mission block sits directly above .page-content, so their vertical
+   paddings stacked to ~131px of dead space. Collapse the seam. */
+.section-white:has(> .wrap > .mission-statement) { padding-bottom: 1.6rem; }
+.section-white:has(> .wrap > .mission-statement) + .page-content { padding-top: 1.2rem; }
+.mission-statement > p:last-child { margin-bottom: 0; }
+
+/* Registered details block */
+.reg-details {
+  font-style: normal;
+  line-height: 1.8;
+  background: var(--offwhite);
+  border-left: 4px solid var(--orange);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 1.1rem 1.3rem;
+  margin: 1.2rem 0 0;
+}
+
+/* Even card heights in the governance grid */
+.govern-grid { align-items: stretch; }
+.govern-card { display: flex; flex-direction: column; }
