@@ -8,7 +8,7 @@ permalink: /classtronauts/
   <div class="wrap"><h1>Classtronauts 2024</h1></div>
 </section>
 
-<div class="page-content">
+<div class="page-content" markdown="1">
 
 We worked with the wonderful children at Priors Wood school to define a space mission with a message for the world, their message.
 

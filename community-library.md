@@ -8,7 +8,7 @@ permalink: /community-library/
   <div class="wrap"><h1>Community Library</h1></div>
 </section>
 
-<div class="page-content">
+<div class="page-content" markdown="1">
 
 What if children could build their own library and fill it with their own books?
 
@@ -22,15 +22,17 @@ We don't want this to end when the school bell rings. This project leaves behind
 
 Every child has a story to tell. This project takes that seriously. Children will go through the full journey of becoming a published author: writing, editing, illustrating, and seeing their words become a real bound book with their name on the cover. Then they'll build the library to house it.
 
-<div class="two-col">
-  <div>
-    <h3>Unique</h3>
-    <p>It's not just an activity. It's a gift from children to their community.</p>
-  </div>
-  <div>
-    <h3>Inspiring</h3>
-    <p>That feeling of holding something you made, knowing your community will read it, that stays with you.</p>
-  </div>
+<div class="two-col" markdown="1">
+<div markdown="1">
+### Unique
+
+It's not just an activity. It's a gift from children to their community.
+</div>
+<div markdown="1">
+### Inspiring
+
+That feeling of holding something you made, knowing your community will read it, that stays with you.
+</div>
 </div>
 
 ## What's Involved

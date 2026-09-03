@@ -26,19 +26,21 @@ permalink: /fire-and-ice/
   </div>
 </section>
 
-<div class="page-content">
+<div class="page-content" markdown="1">
 
 ## Two Challenges, One Mission
 
-<div class="two-col">
-  <div>
-    <h3>🔥 The Fire Walk</h3>
-    <p>Walk barefoot across a bed of burning hot coals, guided by experienced facilitators. This ancient practice is equal parts mental challenge and physical achievement, and you'll discover strength you didn't know you had.</p>
-  </div>
-  <div>
-    <h3>❄️ The Ice Swim</h3>
-    <p>Take the plunge into the icy waters of Ware Lido. Cold water swimming has incredible health benefits, but more importantly, it requires courage, the same courage we want to inspire in young people.</p>
-  </div>
+<div class="two-col" markdown="1">
+<div markdown="1">
+### 🔥 The Fire Walk
+
+Walk barefoot across a bed of burning hot coals, guided by experienced facilitators. This ancient practice is equal parts mental challenge and physical achievement, and you'll discover strength you didn't know you had.
+</div>
+<div markdown="1">
+### ❄️ The Ice Swim
+
+Take the plunge into the icy waters of Ware Lido. Cold water swimming has incredible health benefits, but more importantly, it requires courage, the same courage we want to inspire in young people.
+</div>
 </div>
 
 ## Travel info

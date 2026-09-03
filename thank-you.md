@@ -8,7 +8,7 @@ permalink: /thank-you/
   <div class="wrap"><h1>Thank You</h1></div>
 </section>
 
-<div class="page-content">
+<div class="page-content" markdown="1">
 
 Your donation means the world to us. Thank you for your generosity and support.
 

@@ -8,7 +8,7 @@ permalink: /projects/
   <div class="wrap"><h1>Future Projects</h1></div>
 </section>
 
-<div class="page-content">
+<div class="page-content" markdown="1">
 
 We're just getting started, but here's some of our past and future projects&hellip;
 

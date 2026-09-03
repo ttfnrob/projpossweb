@@ -8,7 +8,7 @@ permalink: /movie-time/
   <div class="wrap"><h1>Movie Premiere</h1></div>
 </section>
 
-<div class="page-content">
+<div class="page-content" markdown="1">
 
 What if a class could write, film, and premiere their own movie?
 
@@ -20,15 +20,17 @@ One week. That's all it takes. Children will write the script, design the sets, 
 
 This isn't about producing a perfect film. It's about giving children the experience of collaborating under pressure, making creative decisions, and seeing something through from a blank page to a packed screening room.
 
-<div class="two-col">
-  <div>
-    <h3>Unique</h3>
-    <p>Children experience filmmaking and then see their work on a real cinema screen.</p>
-  </div>
-  <div>
-    <h3>Inspiring</h3>
-    <p>Walking a red carpet to the premiere of a film you helped make, with your family in the audience.</p>
-  </div>
+<div class="two-col" markdown="1">
+<div markdown="1">
+### Unique
+
+Children experience filmmaking and then see their work on a real cinema screen.
+</div>
+<div markdown="1">
+### Inspiring
+
+Walking a red carpet to the premiere of a film you helped make, with your family in the audience.
+</div>
 </div>
 
 ## What's Involved

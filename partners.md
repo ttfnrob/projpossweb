@@ -8,7 +8,7 @@ permalink: /partners/
   <div class="wrap"><h1>Partners</h1></div>
 </section>
 
-<div class="page-content">
+<div class="page-content" markdown="1">
 
 ## We are looking for supporting groups and organisations who want to help us.
 
