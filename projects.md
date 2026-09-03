@@ -4,9 +4,13 @@ title: Future Projects
 permalink: /projects/
 ---
 
+<section class="page-hero">
+  <div class="wrap"><h1>Future Projects</h1></div>
+</section>
+
 <div class="page-content">
 
-# We're just getting started, but here's some of our past and future projects&hellip;
+We're just getting started, but here's some of our past and future projects&hellip;
 
 ## Classtronauts
 

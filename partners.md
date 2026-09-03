@@ -4,11 +4,15 @@ title: Partners
 permalink: /partners/
 ---
 
+<section class="page-hero">
+  <div class="wrap"><h1>Partners</h1></div>
+</section>
+
 <div class="page-content">
 
-# We are looking for supporting groups and organisations who want to help us.
+## We are looking for supporting groups and organisations who want to help us.
 
-## Become a Partner
+### Become a Partner
 
 If you would like to partner with us, get in touch and one of us will get back to you. We'd love to know how you like to help and what questions you have for us.
 

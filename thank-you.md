@@ -4,9 +4,11 @@ title: Thank You
 permalink: /thank-you/
 ---
 
-<div class="page-content">
+<section class="page-hero">
+  <div class="wrap"><h1>Thank You</h1></div>
+</section>
 
-# Thank You
+<div class="page-content">
 
 Your donation means the world to us. Thank you for your generosity and support.
 

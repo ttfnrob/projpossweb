@@ -4,20 +4,29 @@ title: Fire & Ice
 permalink: /fire-and-ice/
 ---
 
-<section class="hero">
+<section class="page-hero">
   <div class="wrap">
-    <h1>Walk on Fire, Swim in Ice, or both!</h1>
-    <p class="lede">Push your limits for Project Possibility on Saturday 7th March 2026 at Ware Lido</p>
+    <h1>Fire &amp; Ice</h1>
+    <p>March 7th: Are you ready to do something extraordinary?</p>
+  </div>
+</section>
+
+<section class="section-black">
+  <div class="wrap split">
+    <div class="split-text">
+      <h3 class="eyebrow">Walk on Fire, Swim in Ice, or both!</h3>
+      <p>Push your limits for Project Possibility on Saturday 7th March 2026 at Ware Lido.</p>
+      <p>Join us for an unforgettable fundraising event where you'll walk barefoot across burning hot coals, or plunge into an ice-cold swim at Ware Lido, or take on both challenges back-to-back.</p>
+      <p>This isn't just about raising money (though we desperately need your support). It's about proving to yourself that the impossible is possible when we put our minds to it.</p>
+      <a class="btn btn-outline" href="{{ site.justgiving_url }}">Sign Up</a>
+    </div>
+    <div class="split-media">
+      <img src="{{ '/assets/img/firewalk.jpg' | relative_url }}" alt="Barefoot firewalk over glowing coals">
+    </div>
   </div>
 </section>
 
 <div class="page-content">
-
-## Are you ready to do something extraordinary?
-
-Join us for an unforgettable fundraising event where you'll walk barefoot across burning hot coals, or plunge into an ice-cold swim at Ware Lido, or take on both challenges back-to-back.
-
-This isn't just about raising money (though we desperately need your support). It's about proving to yourself that the impossible is possible when we put our minds to it.
 
 ## Two Challenges, One Mission
 
@@ -38,8 +47,6 @@ Ware is a direct train from London Liverpool Street, and Ware Lido is 10-15 mins
 
 There is a car park if you're driving to the event. It is easily accessible from Watford, Luton or Chelmsford, and approximately 1hr drive from Milton Keynes, for example.
 
-<div class="callout">
-  <a class="btn btn-ice" href="{{ site.justgiving_url }}">Sign Up</a>
-</div>
+<a class="btn btn-solid" href="{{ site.justgiving_url }}">Sign Up</a>
 
 </div>

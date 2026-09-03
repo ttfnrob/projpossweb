@@ -4,9 +4,11 @@ title: Movie Time
 permalink: /movie-time/
 ---
 
-<div class="page-content">
+<section class="page-hero">
+  <div class="wrap"><h1>Movie Premiere</h1></div>
+</section>
 
-# Movie Premiere
+<div class="page-content">
 
 What if a class could write, film, and premiere their own movie?
 

@@ -4,9 +4,11 @@ title: Community Library
 permalink: /community-library/
 ---
 
-<div class="page-content">
+<section class="page-hero">
+  <div class="wrap"><h1>Community Library</h1></div>
+</section>
 
-# Community Library
+<div class="page-content">
 
 What if children could build their own library and fill it with their own books?
 

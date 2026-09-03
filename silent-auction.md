@@ -4,9 +4,13 @@ title: Silent Auction for Fire and Ice
 permalink: /silent-auction/
 ---
 
-<div class="page-content">
+<section class="page-hero">
+  <div class="wrap">
+    <h1>Silent Auction for Fire and Ice</h1>
+  </div>
+</section>
 
-# Silent Auction for Fire and Ice
+<div class="page-content">
 
 As part of our March 7th event we're running a silent auction. You can bid on the day or [email us](mailto:fire.ice@projectpossibility.uk?subject=%5BSilent%20Auction%20Bid%5D&body=I%20would%20like%20to%20bid%20on) with your bid if you want to try to bag one of these items.
 

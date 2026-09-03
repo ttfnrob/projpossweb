@@ -1,8 +1,6 @@
-<header class="site-header">
+<header class="site-header{% unless page.transparent_header %} solid{% endunless %}">
   <div class="wrap">
-    <a class="brand" href="{{ '/' | relative_url }}">
-      <span class="brand-mark">✨</span> Project Possibility
-    </a>
+    <a class="brand" href="{{ '/' | relative_url }}">Project Possibility</a>
     <nav class="site-nav">
       <a href="{{ '/fire-and-ice/' | relative_url }}">Fire &amp; Ice</a>
       <a href="{{ '/community-library/' | relative_url }}">Community Library</a>
@@ -10,7 +8,7 @@
       <a href="{{ '/classtronauts/' | relative_url }}">Classtronauts</a>
       <a href="{{ '/projects/' | relative_url }}">Other Projects</a>
       <a href="{{ '/partners/' | relative_url }}">Partners</a>
-      <a class="donate" href="{{ site.justgiving_url }}">Donate</a>
+      <a class="btn btn-white donate" href="{{ site.justgiving_url }}">Donate</a>
     </nav>
   </div>
 </header>

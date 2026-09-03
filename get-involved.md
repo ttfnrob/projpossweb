@@ -4,9 +4,11 @@ title: Get Involved
 permalink: /get-involved/
 ---
 
-<div class="page-content">
+<section class="page-hero">
+  <div class="wrap"><h1>Get Involved</h1></div>
+</section>
 
-# Get Involved
+<div class="page-content">
 
 Want to help Project Possibility inspire more young people? Get in touch, we'd love to hear from you.
 
