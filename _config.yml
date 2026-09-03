@@ -12,6 +12,8 @@ instagram_url: "https://www.instagram.com/projectpossibilityuk/"
 facebook_url: "https://www.facebook.com/projectpossibilityUK"
 
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
