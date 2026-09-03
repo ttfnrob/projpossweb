@@ -1,7 +1,9 @@
 title: Project Possibility
 description: "Helping young people believe in themselves and each other, through events that combine science, technology, and the arts."
-url: "https://www.projectpossibility.uk"
-baseurl: ""
+url: "https://ttfnrob.github.io"
+baseurl: "/projpossweb"
+# NOTE: when cutting over to the custom domain (projectpossibility.uk),
+# change url to "https://www.projectpossibility.uk" and baseurl to ""
 
 charity_number: "1205365"
 contact_email: "contact@projectpossibility.uk"
