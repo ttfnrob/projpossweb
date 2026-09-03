@@ -9,7 +9,7 @@ transparent_header: true
   <div class="hero-content">
     <img class="hero-logo" src="{{ '/assets/img/logo-transparent.png' | relative_url }}" alt="Project Possibility">
     <h1 class="visually-hidden">Project Possibility</h1>
-    <p class="lede">Helping young people believe in themselves and each other.</p>
+    <p class="lede">Helping young people believe in themselves and each other</p>
     <a class="btn btn-solid" href="{{ '/get-involved/' | relative_url }}">Learn More</a>
   </div>
 </section>
