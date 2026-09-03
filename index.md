@@ -49,7 +49,7 @@ transparent_header: true
 
 <section class="section-white">
   <div class="wrap split">
-    <div class="split-text">
+    <div class="split-text centered">
       <h1>The Great Toy Race</h1>
       <p>On Saturday 21st September, we drove a toy car 17.7 miles around Milton Keynes to put PP on the map, literally. Our little car traversed woodlands, crossed rivers and navigated the roads and paths of "MK".</p>
       <p>We did it and <a href="https://www.justgiving.com/page/thegreattoyrace2024" style="color: var(--orange);">raised over £800</a> along the way! We had no idea if this was even possible but that's what we're all about&hellip;</p>

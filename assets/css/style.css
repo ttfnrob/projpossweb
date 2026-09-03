@@ -201,11 +201,12 @@ section { padding: 5vw 0; }
   object-fit: cover;
 }
 .split-text h1, .split-text h2 {
-  font-size: 57.2px;
+  font-size: 44px;
   font-weight: 500;
   margin: 0 0 0.6rem;
-  line-height: 1.1;
+  line-height: 1.15;
 }
+.split-text.centered { text-align: center; }
 .split-text h3.eyebrow {
   font-size: 31.28px;
   font-weight: 500;
@@ -235,13 +236,13 @@ section { padding: 5vw 0; }
 }
 .auction-band .blob {
   position: absolute;
-  right: -5%;
+  right: -8%;
   top: 50%;
   transform: translateY(-50%);
-  width: 700px;
-  height: 700px;
+  width: 620px;
+  height: 620px;
   border-radius: 50%;
-  background: radial-gradient(circle at 35% 35%, rgba(255,125,0,0.55), rgba(255,125,0,0.12) 70%);
+  background: radial-gradient(circle at 40% 40%, rgba(255,125,0,0.75) 0%, rgba(255,125,0,0.45) 55%, rgba(255,125,0,0.15) 80%);
   z-index: 0;
 }
 .auction-band .wrap {
@@ -256,10 +257,14 @@ section { padding: 5vw 0; }
 .auction-band .auction-copy { max-width: 620px; }
 .auction-band .btn { flex-shrink: 0; }
 .auction-band h1 {
-  font-size: clamp(2.8rem, 8.5vw, 122.8px);
+  font-size: clamp(2.8rem, 9vw, 96px);
   font-weight: 500;
   margin: 0 0 1rem;
   line-height: 1;
+  white-space: nowrap;
+}
+@media (max-width: 900px) {
+  .auction-band h1 { white-space: normal; }
 }
 .auction-band p {
   max-width: 620px;
