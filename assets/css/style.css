@@ -88,8 +88,8 @@ a { text-decoration: none; }
 }
 .brand {
   color: var(--white);
-  font-weight: 600;
-  font-size: 1.1rem;
+  font-weight: 500;
+  font-size: 19.76px;
   letter-spacing: 0.02em;
 }
 .site-header.solid .brand { color: var(--black); }
@@ -99,12 +99,12 @@ a { text-decoration: none; }
   gap: 1.6rem;
   flex-wrap: wrap;
 }
-.site-nav a {
+.site-nav a:not(.btn) {
   color: var(--white);
-  font-size: 0.9rem;
+  font-size: 14px;
   font-weight: 400;
 }
-.site-header.solid .site-nav a { color: var(--black); }
+.site-header.solid .site-nav a:not(.btn) { color: var(--black); }
 .site-nav a.donate {
   padding: 0.55rem 1.4rem;
 }
@@ -165,12 +165,12 @@ section { padding: 5vw 0; }
 
 .mission {
   text-align: center;
-  max-width: 640px;
+  max-width: 760px;
   margin: 0 auto;
-  padding: 6vw 3vw;
+  padding: 3vw 3vw;
 }
 .mission h2 {
-  font-size: 1.9rem;
+  font-size: 31.28px;
   font-weight: 500;
   margin-bottom: 1.2rem;
 }
@@ -181,7 +181,7 @@ section { padding: 5vw 0; }
   text-underline-offset: 4px;
 }
 .mission p {
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: var(--grey-text);
   margin-bottom: 1rem;
 }
@@ -201,14 +201,16 @@ section { padding: 5vw 0; }
   object-fit: cover;
 }
 .split-text h1, .split-text h2 {
-  font-size: 2.4rem;
+  font-size: 57.2px;
   font-weight: 500;
   margin: 0 0 0.6rem;
+  line-height: 1.1;
 }
 .split-text h3.eyebrow {
-  font-size: 1.15rem;
+  font-size: 31.28px;
   font-weight: 500;
   margin: 0 0 1rem;
+  line-height: 1.25;
 }
 .split-text p {
   font-size: 0.95rem;
@@ -233,18 +235,28 @@ section { padding: 5vw 0; }
 }
 .auction-band .blob {
   position: absolute;
-  right: -10%;
+  right: -5%;
   top: 50%;
   transform: translateY(-50%);
-  width: 480px;
-  height: 480px;
+  width: 700px;
+  height: 700px;
   border-radius: 50%;
-  background: radial-gradient(circle at 30% 30%, rgba(255,125,0,0.35), rgba(255,125,0,0.05));
+  background: radial-gradient(circle at 35% 35%, rgba(255,125,0,0.55), rgba(255,125,0,0.12) 70%);
   z-index: 0;
 }
-.auction-band .wrap { position: relative; z-index: 1; }
+.auction-band .wrap {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.auction-band .auction-copy { max-width: 620px; }
+.auction-band .btn { flex-shrink: 0; }
 .auction-band h1 {
-  font-size: clamp(2.5rem, 7vw, 5.2rem);
+  font-size: clamp(2.8rem, 8.5vw, 122.8px);
   font-weight: 500;
   margin: 0 0 1rem;
   line-height: 1;

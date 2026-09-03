@@ -39,8 +39,10 @@ transparent_header: true
 <section class="auction-band">
   <div class="blob"></div>
   <div class="wrap">
-    <h1>Silent Auction</h1>
-    <p>We're running a silent auction as part of our Fire &amp; Ice event at Ware Lido. The auction features some fantastic donated prizes, including a personalised stargazing night, a day of manual labour, a premium wine selection from French &amp; Day, improv comedy tickets from MKToC, Stevenage FC tickets, and a pair of prints from Opal &amp; Iris.</p>
+    <div class="auction-copy">
+      <h1>Silent Auction</h1>
+      <p>We're running a silent auction as part of our Fire &amp; Ice event at Ware Lido. The auction features some fantastic donated prizes, including a personalised stargazing night, a day of manual labour, a premium wine selection from French &amp; Day, improv comedy tickets from MKToC, Stevenage FC tickets, and a pair of prints from Opal &amp; Iris.</p>
+    </div>
     <a class="btn btn-solid" href="{{ '/silent-auction/' | relative_url }}">Learn more</a>
   </div>
 </section>
