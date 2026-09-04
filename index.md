@@ -99,12 +99,12 @@ description: "Project Possibility helps young people believe in themselves and e
     <div class="help-grid">
       <div class="help-item">
         <h3>Donate</h3>
-        <p>Every donation goes directly into running events for young people. We're a small charity, so it goes a long way.</p>
+        <p>Donations fund the events we run for young people. We're a small charity, so it goes a long way.</p>
         <a class="btn btn-solid btn-block" href="{{ site.justgiving_url }}" rel="noopener">Donate</a>
       </div>
       <div class="help-item">
         <h3>Volunteer</h3>
-        <p>Most projects need two or three volunteers. If you can give a day, we'd love to hear from you.</p>
+        <p>Our current projects each need two or three volunteers. If you can give some time, we'd love to hear from you.</p>
         <a class="btn btn-outline btn-block" href="{{ '/get-involved/' | relative_url }}">Get in touch</a>
       </div>
       <div class="help-item">

@@ -18,12 +18,12 @@ description: "Donate, volunteer, or partner with Project Possibility to help you
     <div class="help-grid">
       <div class="help-item">
         <h3>Donate</h3>
-        <p>We're small, so donations make a real difference. Everything goes into running events for young people.</p>
+        <p>We're a small charity, so donations make a real difference. They fund the events we run for young people.</p>
         <a class="btn btn-solid btn-block" href="{{ site.justgiving_url }}" rel="noopener">Donate via JustGiving</a>
       </div>
       <div class="help-item">
         <h3>Volunteer</h3>
-        <p>Most projects need two or three volunteers for a few days. No specialist skills required, just enthusiasm.</p>
+        <p>Our current projects each need two or three volunteers. If you can give some time, we'd love to hear from you.</p>
         <a class="btn btn-outline btn-block" href="mailto:{{ site.contact_email }}?subject=Volunteering%20with%20Project%20Possibility">Email us</a>
       </div>
       <div class="help-item">
@@ -39,7 +39,7 @@ description: "Donate, volunteer, or partner with Project Possibility to help you
 
 ## Are you a school?
 
-If you'd like to run one of [our projects]({{ '/projects/' | relative_url }}) with your class, get in touch. We work mostly with KS2 (roughly UK Years 3 to 6), and everything is free for the children taking part.
+If you'd like to run one of [our projects]({{ '/projects/' | relative_url }}) with your class, get in touch. Our current projects are aimed at KS2, roughly UK Years 3 to 6.
 
 ## Just want to chat?
 

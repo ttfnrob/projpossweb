@@ -19,11 +19,11 @@ description: "In September 2024 we drove a toy car 17.7 miles around Milton Keyn
 **This event has finished.** It ran on Saturday 21st September 2024. Have a look at [what we're planning next]({{ '/projects/' | relative_url }}).
 </div>
 
-<img class="card-media" src="{{ '/assets/img/toy-race-map.jpg' | relative_url }}" alt="Map of the Great Toy Race route around Milton Keynes, drawn out as a giant letter P" loading="lazy">
+<img class="card-media" src="{{ '/assets/img/toy-race-map.jpg' | relative_url }}" alt="Map of the Great Toy Race route around Milton Keynes, tracing the letters PP across the city" loading="lazy">
 
 On Saturday 21st September 2024, we drove a toy car 17.7 miles around Milton Keynes. Our little car traversed woodlands, crossed rivers, and navigated the roads and paths of "MK".
 
-The route itself spelled out a giant letter P across the city.
+The route itself traced out "PP" across the city, putting Project Possibility on the map. Literally.
 
 We had no idea if it was even possible, but that is rather the point of this charity.
 

@@ -25,6 +25,8 @@ Supporters pushed their limits for Project Possibility at Ware Lido: walking bar
 
 It was never really about the money, though we did need it. It was about proving to yourself that the impossible is possible when you put your mind to it.
 
+Ware is a direct train from London Liverpool Street, and Ware Lido is a 10 to 15 minute walk from Ware station.
+
 ## The two challenges
 
 <div class="two-col" markdown="1">
@@ -42,7 +44,7 @@ Taking the plunge into the icy water at Ware Lido. Cold water swimming has real 
 
 ## The silent auction
 
-Alongside the event we ran a silent auction. Huge thanks to everyone who donated a prize:
+Alongside the event we ran a silent auction. Thank you to everyone who donated a prize:
 
 <div class="auction-grid" markdown="1">
 <div class="auction-item" markdown="1">

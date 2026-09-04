@@ -24,7 +24,6 @@ description: "Mission, trustees, policies and finances for Project Possibility, 
       with young people rather than deliver them to young people. Our aim is a healthy belief in the
       impossible: if a child gets to do something genuinely extraordinary, it changes what they
       believe they are capable of, and that belief lasts.</p>
-      <p>Everything we run is free for the children taking part.</p>
     </div>
   </div>
 </section>
@@ -50,7 +49,7 @@ By providing services, and by providing advocacy, advice and information.
 </div>
 <div class="govern-card" markdown="1">
 ### Where we work
-Throughout England and Wales. In practice we are based in Milton Keynes and work mostly with schools nearby.
+Throughout England and Wales. Our registered base is Milton Keynes, Buckinghamshire.
 </div>
 </div>
 
@@ -58,7 +57,7 @@ Throughout England and Wales. In practice we are based in Milton Keynes and work
 
 Project Possibility is a **Charitable Incorporated Organisation (CIO)**, registered with the Charity Commission for England and Wales on **23 October 2023** under charity number **{{ site.charity_number }}**.
 
-We have no employees. The charity is run entirely by its trustees and volunteers.
+The charity is run by its three trustees, supported by volunteers.
 
 ## Our trustees
 
@@ -83,26 +82,24 @@ The charity holds the following policies, reviewed by the trustees:
 - Internal charity financial controls policy and procedures
 - Internal risk management policy and procedures
 
-Copies of any of these are available on request. Email
-[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Policy%20request) and tell us which
-one you'd like.
+This list is as recorded on our
+[Charity Commission register entry](https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5226236).
+If you'd like to ask about any of them, email
+[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Policy%20enquiry).
 
 ### Safeguarding
 
-Our work brings volunteers into contact with children, so safeguarding is the policy we take most
-seriously. We work through partner schools and organisations and operate within their safeguarding
-arrangements as well as our own.
-
-If you have a safeguarding concern about anything connected to Project Possibility, please contact us
-at [{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Safeguarding%20concern) and
-mark it urgent. If a child is at immediate risk of harm, contact the police on 999 first.
+Our work brings adults into contact with children, so safeguarding matters here. If you have a
+safeguarding concern about anything connected to Project Possibility, email us at
+[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Safeguarding%20concern) and mark
+it urgent. If a child is at immediate risk of harm, contact the police on 999 first.
 
 ### Complaints
 
 If something we've done has fallen short, we want to hear about it. Email
-[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Complaint) with the details and a
-trustee will respond. If you are not satisfied with how we handle a complaint, you can raise it with
-the [Charity Commission](https://www.gov.uk/complain-about-charity).
+[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Complaint) with the details. If
+you are not satisfied with how we handle a complaint, you can raise it with the
+[Charity Commission](https://www.gov.uk/complain-about-charity).
 
 ## Our finances
 
@@ -111,8 +108,8 @@ Commission is up to date. Our full accounts and annual returns are published on 
 [Charity Commission register entry](https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5226236),
 which is always the current source for our figures.
 
-We have no trading subsidiaries. Donations are handled by
-[JustGiving]({{ site.justgiving_url }}), so we never process card payments ourselves.
+We have no trading subsidiaries. We use [JustGiving]({{ site.justgiving_url }}) as our fundraising
+platform.
 
 ## Registered details
 

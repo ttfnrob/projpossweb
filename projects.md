@@ -16,8 +16,8 @@ description: "Project ideas Project Possibility wants to run next: a community l
 <section class="section-white">
   <div class="wrap">
     <div class="section-head center">
-      <h2>Ready to go</h2>
-      <p>These two are fully planned. They just need backing.</p>
+      <h2>Looking for support</h2>
+      <p>These two are the projects we want to run next.</p>
     </div>
     <div class="cards cards-2">
       <a class="card" href="{{ '/community-library/' | relative_url }}">
@@ -41,6 +41,7 @@ description: "Project ideas Project Possibility wants to run next: a community l
     <div class="section-head center">
       <h2>Ideas we're developing</h2>
       <p>Earlier stage, but we think they could be brilliant.</p>
+
     </div>
     <div class="cards">
       <div class="card">

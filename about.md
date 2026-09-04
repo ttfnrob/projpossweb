@@ -34,15 +34,15 @@ The idea is simple. If a child gets to do something genuinely extraordinary, som
 
 We partner with schools and community groups, and we build the project with the children rather than delivering it to them. They make the decisions: what the message says, what the story is, what gets broadcast.
 
-Everything we run is free for the children taking part. That's what the fundraising is for.
+We fundraise so that we can run these projects.
 
 ## Who runs it
 
 Project Possibility is a Charitable Incorporated Organisation, registered in England and Wales as charity number **{{ site.charity_number }}** since October 2023. It is based in Milton Keynes, Buckinghamshire.
 
-We have no paid staff. The charity is run by three volunteer trustees, none of whom take any payment from it. You can read more about how we're run, our policies and our finances on our [governance page]({{ '/governance/' | relative_url }}).
+The charity is run by three trustees, none of whom take any remuneration, payment or benefit from it. You can read more about how we're run, our policies and our finances on our [governance page]({{ '/governance/' | relative_url }}).
 
-We use JustGiving as our fundraising platform, so donations go through them directly and we never handle card payments ourselves.
+We use JustGiving as our fundraising platform.
 
 ## Get in touch
 
