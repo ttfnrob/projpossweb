@@ -30,6 +30,17 @@ description: "Mission, trustees, policies and finances for Project Possibility, 
 
 <div class="page-content" markdown="1">
 
+## Our charitable objects
+
+These are the charity's objects as set out in our governing document, the wording the charity is
+legally bound to work towards. To advance in life and help young people through:
+
+<div class="objects" markdown="1">
+1. The provision of recreational and leisure time activities provided in the interest of social welfare, designed to improve their conditions of life
+2. Providing support and activities which develop their skills, capacities and capabilities to enable them to participate in society as mature and responsible individuals
+3. Advancing education
+</div>
+
 ## What we do, and who for
 
 These are the areas we are registered to work in with the Charity Commission.
@@ -55,7 +66,13 @@ Throughout England and Wales. Our registered base is Milton Keynes, Buckinghamsh
 
 ## How we're structured
 
-Project Possibility is a **Charitable Incorporated Organisation (CIO)**, registered with the Charity Commission for England and Wales on **23 October 2023** under charity number **{{ site.charity_number }}**.
+Project Possibility is a **foundation Charitable Incorporated Organisation (CIO)**, registered with the
+Charity Commission for England and Wales on **23 October 2023** under charity number
+**{{ site.charity_number }}**.
+
+A foundation CIO is run by its trustees, who are its only members. There is no wider voting
+membership. Our governing document requires a minimum of three trustees, and the trustees must meet
+at least twice a year.
 
 The charity is run by its three trustees, supported by volunteers.
 
@@ -69,7 +86,9 @@ Trustees are responsible for controlling the work, management and administration
 | James Frecknall | Trustee |
 | Andrew Connolly | Trustee |
 
-**No trustee receives any remuneration, payment or benefit from the charity.** All trustees are volunteers.
+**No trustee receives any remuneration, payment or benefit from the charity.** Our governing document
+restricts trustee benefit, and trustees must declare any conflict of interest and withdraw from the
+relevant discussion and vote.
 
 ## Our policies
 

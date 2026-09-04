@@ -759,6 +759,23 @@ a.card:hover { border-color: var(--orange); }
   margin: 0 0 1rem;
 }
 
+/* ---------- Charitable objects ----------
+   Quoted from the governing document, so give it a distinct, quote-like treatment. */
+.objects {
+  background: var(--offwhite);
+  border-left: 4px solid var(--orange);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 1.2rem 1.4rem 1.2rem 1.6rem;
+  margin: 1.2rem 0 2rem;
+}
+.objects ol { margin: 0; padding-left: 1.2rem; }
+.objects li {
+  color: var(--grey-text);
+  font-size: 0.95rem;
+  margin-bottom: 0.6rem;
+}
+.objects li:last-child { margin-bottom: 0; }
+
 /* ---------- Governance cards ---------- */
 .govern-grid {
   display: grid;
