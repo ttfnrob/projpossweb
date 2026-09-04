@@ -27,13 +27,17 @@ We talked with Year 5 about the history of messages sent into space, and about w
 
 ## A message for the world
 
-[Watch the message &rarr;](https://youtu.be/LPwg5GbtVcw)
+{% include video-link.html id="LPwg5GbtVcw" title="Teamwork-1 Message" thumb="/assets/img/teamwork1-message-thumb.jpg" %}
+
+<p class="video-caption">The message the children chose to broadcast from the edge of space.</p>
 
 ## The full flight of Teamwork-1
 
 Teamwork-1 flew 100 miles, from south of Sheffield to the Yorkshire coast. You can watch the entire 2.5 hour journey, including the broadcast of their message at the very peak, and the dramatic landing.
 
-[Watch the full flight &rarr;](https://youtu.be/9Vw8fqYceNQ)
+{% include video.html id="9Vw8fqYceNQ" title="Classtronauts 2024: Teamwork-1 Full Flight (Project Possibility)" %}
+
+<p class="video-caption">The full 2.5 hour flight, start to landing.</p>
 
 ---
 

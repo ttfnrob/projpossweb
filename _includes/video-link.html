@@ -1,0 +1,5 @@
+<a class="video-link" href="https://youtu.be/{{ include.id }}" rel="noopener" aria-label="Watch on YouTube: {{ include.title }}">
+  <img src="{{ include.thumb | relative_url }}" alt="{{ include.title }}" loading="lazy">
+  <span class="video-link-play" aria-hidden="true"></span>
+  <span class="video-link-label">Watch on YouTube</span>
+</a>
