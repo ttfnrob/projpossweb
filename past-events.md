@@ -25,7 +25,7 @@ description: "Past Project Possibility events: Classtronauts, The Great Toy Race
       <a class="card" href="{{ '/great-toy-race/' | relative_url }}">
         <span class="pill pill-past">September 2024</span>
         <h3>The Great Toy Race</h3>
-        <p>We drove a toy car 17.7 miles around Milton Keynes, through woodland and across rivers, and raised over £800 doing it.</p>
+        <p>We drove a radio controlled toy car 17.7 miles around Milton Keynes, through woodland and across rivers, and raised £875 doing it.</p>
         <span class="card-link">Read more &rarr;</span>
       </a>
       <a class="card" href="{{ '/classtronauts/' | relative_url }}">

@@ -2,7 +2,7 @@
 layout: default
 title: The Great Toy Race
 permalink: /great-toy-race/
-description: "In September 2024 we drove a toy car 17.7 miles around Milton Keynes and raised over £800 for Project Possibility."
+description: "In September 2024 we drove a radio controlled toy car 17.7 miles around Milton Keynes and raised £875 for Project Possibility."
 ---
 
 <section class="page-hero">
@@ -21,7 +21,7 @@ description: "In September 2024 we drove a toy car 17.7 miles around Milton Keyn
 
 <img class="card-media" src="{{ '/assets/img/toy-race-map.jpg' | relative_url }}" alt="Map of the Great Toy Race route around Milton Keynes, tracing the letters PP across the city" loading="lazy">
 
-On Saturday 21st September 2024, we drove a toy car 17.7 miles around Milton Keynes. Our little car traversed woodlands, crossed rivers, and navigated the roads and paths of "MK".
+On Saturday 21st September 2024, we drove a radio controlled toy car 17.7 miles around Milton Keynes. Our little car traversed woodlands, crossed rivers, and navigated the roads and paths of "MK".
 
 The route itself traced out "PP" across the city, putting Project Possibility on the map. Literally.
 
@@ -29,7 +29,7 @@ We had no idea if it was even possible, but that is rather the point of this cha
 
 ## What it raised
 
-The race raised **over £800**, all of which goes towards running events for young people.
+The race raised **£875** from 27 supporters, against a £750 target.
 
 [See the fundraising page &rarr;](https://www.justgiving.com/page/thegreattoyrace2024)
 

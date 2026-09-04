@@ -40,7 +40,7 @@ description: "Project Possibility helps young people believe in themselves and e
         <span class="stat-label">Driven by a toy car around Milton Keynes</span>
       </div>
       <div>
-        <span class="stat-num">£800+</span>
+        <span class="stat-num">£875</span>
         <span class="stat-label">Raised by our Great Toy Race</span>
       </div>
     </div>
@@ -81,7 +81,7 @@ description: "Project Possibility helps young people believe in themselves and e
     <div class="split-text">
       <p class="eyebrow">What we've done</p>
       <h2>We've already done the impossible a few times</h2>
-      <p>We've sent a school's message 30km into the stratosphere, driven a toy car 17.7 miles across Milton Keynes, and walked barefoot over hot coals to raise funds.</p>
+      <p>We've sent a school's message 30km into the stratosphere, driven a radio controlled toy car 17.7 miles across Milton Keynes, and walked barefoot over hot coals to raise funds.</p>
       <a class="btn btn-outline" href="{{ '/past-events/' | relative_url }}">Browse past events</a>
     </div>
     <div class="split-media">
