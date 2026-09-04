@@ -776,6 +776,42 @@ a.card:hover { border-color: var(--orange); }
 }
 .objects li:last-child { margin-bottom: 0; }
 
+/* ---------- Jump links ----------
+   In-page nav for long pages like governance. */
+.jump-links {
+  background: var(--offwhite);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.3rem;
+  margin: 0 0 2.2rem;
+}
+.jump-links h2 {
+  margin: 0 0 0.7rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--grey-text);
+}
+.jump-links ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.1rem;
+}
+.jump-links li { margin: 0; }
+.jump-links a {
+  font-size: 0.92rem;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.jump-links a:hover { border-bottom-color: var(--orange); }
+
+/* Offset anchor targets so headings are not hidden under the sticky header. */
+.page-content h2[id],
+.page-content h3[id] { scroll-margin-top: 90px; }
+
 /* ---------- Safeguarding callout ----------
    Deliberately high-contrast: a worried parent should find this fast. */
 .safeguard-box {

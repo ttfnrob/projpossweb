@@ -30,6 +30,24 @@ description: "Mission, trustees, policies and finances for Project Possibility, 
 
 <div class="page-content" markdown="1">
 
+<nav class="jump-links" aria-label="On this page">
+  <h2>On this page</h2>
+  <ul>
+    <li><a href="#our-charitable-objects">Our charitable objects</a></li>
+    <li><a href="#what-we-do-and-who-for">What we do, and who for</a></li>
+    <li><a href="#how-were-structured">How we're structured</a></li>
+    <li><a href="#our-trustees">Our trustees</a></li>
+    <li><a href="#our-policies">Our policies</a></li>
+    <li><a href="#safeguarding">Safeguarding</a></li>
+    <li><a href="#complaints">Complaints</a></li>
+    <li><a href="#photography-and-young-peoples-privacy">Photography and privacy</a></li>
+    <li><a href="#your-data">Your data</a></li>
+    <li><a href="#safety-at-our-events">Safety at our events</a></li>
+    <li><a href="#our-finances">Our finances</a></li>
+    <li><a href="#registered-details">Registered details</a></li>
+  </ul>
+</nav>
+
 ## Our charitable objects
 
 These are the charity's objects as set out in our governing document, the wording the charity is

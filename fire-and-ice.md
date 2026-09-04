@@ -16,7 +16,8 @@ description: "Fire & Ice was our March 2026 fundraiser at Ware Lido: a barefoot 
 <div class="page-content" markdown="1">
 
 <div class="notice" markdown="1">
-**This event has finished.** Fire &amp; Ice took place on 7 March 2026 at Ware Lido. Have a look at [what we're planning next]({{ '/projects/' | relative_url }}).
+**This event has finished, and Fire &amp; Ice is not running in 2027.** It took place on 7 March 2026 at
+Ware Lido. Have a look at [what we're planning next]({{ '/projects/' | relative_url }}).
 </div>
 
 <img class="card-media" src="{{ '/assets/img/firewalk.jpg' | relative_url }}" alt="A barefoot firewalk across glowing hot coals" loading="lazy">
@@ -75,7 +76,8 @@ A beautiful pair of prints from "Opal &amp; Iris". They come as a lovely pair.
 
 ---
 
-We'd love to run something like this again.
+Fire &amp; Ice is not returning in 2027, but we are always working on the next challenge. Have a look at
+[what we're planning]({{ '/projects/' | relative_url }}).
 
 <a class="btn btn-solid" href="{{ site.justgiving_url }}" rel="noopener">Support the next project</a>
 
