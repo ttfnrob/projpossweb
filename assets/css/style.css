@@ -140,10 +140,10 @@ p { margin: 0 0 1.1em; }
   justify-content: space-between;
   gap: 1rem;
 }
+/* Text-only brand in the header. The figure mark is deliberately NOT used here:
+   its thin strings and small planets turn to noise below roughly 48px. It is
+   kept for the hero lockup, app icons and social card, where it has room. */
 .brand {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.55rem;
   font-weight: 600;
   font-size: 1.05rem;
   color: var(--white);
@@ -152,16 +152,6 @@ p { margin: 0 0 1.1em; }
   text-decoration: none;
 }
 .site-header.solid .brand { color: var(--ink); }
-.brand-mark {
-  width: 36px;
-  height: auto;
-  display: block;
-  flex: none;
-}
-/* white mark over the transparent header, ink mark on the solid white header */
-.brand-mark--dark { display: none; }
-.site-header.solid .brand-mark--light { display: none; }
-.site-header.solid .brand-mark--dark { display: block; }
 
 /* burger */
 .nav-toggle {
