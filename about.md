@@ -40,9 +40,17 @@ We fundraise so that we can run these projects.
 
 Project Possibility is a Charitable Incorporated Organisation, registered in England and Wales as charity number **{{ site.charity_number }}** since October 2023. It is based in Milton Keynes, Buckinghamshire.
 
-The charity is run by three trustees, none of whom take any remuneration, payment or benefit from it. You can read more about how we're run, our policies and our finances on our [governance page]({{ '/governance/' | relative_url }}).
+The charity is run by three trustees, none of whom take any remuneration, payment or benefit from it.
 
 We use JustGiving as our fundraising platform.
+
+## Governance and policies
+
+We try to be open about how the charity is run. Our governance page sets out our charitable
+objects, who our trustees are, how we make decisions and handle money, and the policies we work
+to, including safeguarding, complaints, and how we look after young people's privacy.
+
+<a class="btn btn-solid" href="{{ '/governance/' | relative_url }}">Governance and policies</a>
 
 ## Get in touch
 
