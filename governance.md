@@ -121,10 +121,49 @@ and social media. If you'd like to ask about any of them, email
 
 ### Safeguarding
 
-Our work brings adults into contact with children, so safeguarding matters here. If you have a
-safeguarding concern about anything connected to Project Possibility, email us at
-[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Safeguarding%20concern) and mark
-it urgent. If a child is at immediate risk of harm, contact the police on 999 first.
+Project Possibility is committed to safeguarding and promoting the welfare of children and young
+people. We believe every child has the right to be protected from harm and abuse, whatever their age,
+gender, ethnicity, disability, sexuality or belief. **The welfare of the child comes first.**
+
+Our safeguarding policy applies to every trustee and volunteer, and to everyone acting on our behalf.
+
+<div class="safeguard-box" markdown="1">
+#### Reporting a concern
+
+If a child is at immediate risk of harm, **call the police on 999** first.
+
+Otherwise, contact our Designated Safeguarding Lead:
+
+**James Frecknall**, Trustee and Designated Safeguarding Lead
+[james@projectpossibility.uk](mailto:james@projectpossibility.uk?subject=Safeguarding%20concern)
+
+You can also raise a concern directly with Milton Keynes Children's Services, the Multi-Agency
+Safeguarding Hub:
+
+- Office hours: [01908 253169](tel:+441908253169) or [01908 253170](tel:+441908253170)
+- Out of hours: [01908 265545](tel:+441908265545)
+- Email: [children@milton-keynes.gov.uk](mailto:children@milton-keynes.gov.uk)
+
+You do not need our permission to contact them, and you never need to be certain before reporting.
+</div>
+
+#### Vetting and training
+
+All three of our trustees hold **Enhanced DBS checks** and keep them current through regular renewal.
+Any volunteer who will have regular contact with children must complete an Enhanced DBS check before
+working with children, provide references, receive safeguarding training, and sign our code of
+conduct. Safeguarding training is refreshed at least every three years, or sooner if guidance changes.
+
+#### Our code of conduct
+
+Everyone representing Project Possibility must treat children with respect and dignity, work with
+another adult present, avoid being alone with a child in a private space, never use physical
+punishment or inappropriate language, never share personal contact details with children, and never
+use social media to contact children involved in our activities.
+
+Every safeguarding concern is recorded in writing, dated and signed, and stored securely with access
+limited to the Designated Safeguarding Lead and the relevant authorities. The policy is reviewed
+annually, and immediately after any safeguarding incident.
 
 ### Complaints
 

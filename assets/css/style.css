@@ -776,6 +776,25 @@ a.card:hover { border-color: var(--orange); }
 }
 .objects li:last-child { margin-bottom: 0; }
 
+/* ---------- Safeguarding callout ----------
+   Deliberately high-contrast: a worried parent should find this fast. */
+.safeguard-box {
+  background: #fff6ef;
+  border: 2px solid var(--orange);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.5rem;
+  margin: 1.6rem 0 2rem;
+}
+.safeguard-box h4 {
+  margin: 0 0 0.8rem;
+  font-size: 1.05rem;
+  color: var(--orange-text);
+}
+.safeguard-box p { margin: 0 0 0.8rem; }
+.safeguard-box ul { margin: 0 0 0.8rem; padding-left: 1.2rem; }
+.safeguard-box li { margin-bottom: 0.35rem; }
+.safeguard-box > *:last-child { margin-bottom: 0; }
+
 /* ---------- Governance cards ---------- */
 .govern-grid {
   display: grid;
