@@ -43,7 +43,9 @@ world, and they didn't disappoint.
 
 ## The full flight of Teamwork-1
 
-Teamwork-1 flew 100 miles, from south of Sheffield to the Yorkshire coast. You can watch the entire 2.5 hour journey, including the broadcast of their message at the very peak, and the dramatic landing.
+We were not permitted to launch from Ware, so Teamwork-1 lifted off from south of Sheffield instead
+and flew 100 miles to the Yorkshire coast. You can watch the entire 2.5 hour journey, including the
+broadcast of their message at the very peak, and the dramatic landing.
 
 {% include video.html id="9Vw8fqYceNQ" title="Classtronauts 2024: Teamwork-1 Full Flight (Project Possibility)" %}
 
