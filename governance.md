@@ -103,8 +103,9 @@ The charity holds the following policies, reviewed by the trustees:
 
 This list is as recorded on our
 [Charity Commission register entry](https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5226236).
-If you'd like to ask about any of them, email
-[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Policy%20enquiry).
+The complaints, risk management and social media procedures sit together in our Operations Policy,
+approved in January 2026 and next reviewed in January 2027. If you'd like to ask about any of them,
+email [{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Policy%20enquiry).
 
 ### Safeguarding
 
@@ -115,10 +116,48 @@ it urgent. If a child is at immediate risk of harm, contact the police on 999 fi
 
 ### Complaints
 
-If something we've done has fallen short, we want to hear about it. Email
-[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Complaint) with the details. If
-you are not satisfied with how we handle a complaint, you can raise it with the
+If something we've done has fallen short, we want to hear about it. A complaint can come from anyone:
+a young person, a parent, a donor, a volunteer, or a member of the public. Email
+[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Complaint) with the details, or
+tell any trustee.
+
+Our complaints policy sets out three stages:
+
+1. **Informal resolution.** We try to sort it out directly, within 7 days.
+2. **Formal investigation.** If that doesn't resolve it, a trustee not involved in the issue investigates and responds within 21 days.
+3. **Trustee board review.** If it is still unresolved, the full board reviews the complaint and gives a final response.
+
+We record every complaint with its date, nature and outcome, review them annually to spot
+improvements, and report serious incidents to the Charity Commission where we are required to.
+
+If you are not satisfied with how we handle a complaint, you can raise it with the
 [Charity Commission](https://www.gov.uk/complain-about-charity).
+
+### Photography and young people's privacy
+
+We take photographs and video at our events, and we share some of it publicly. Our social media
+policy commits us to:
+
+- asking parents or guardians for consent before we post images or video of children
+- not identifying children by full name
+- stripping location data from photos before posting
+- never direct-messaging children through charity accounts
+
+Consent can be withdrawn at any time. If you would like an image of your child removed, email
+[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Image%20removal%20request) and we
+will take it down.
+
+### Your data
+
+We handle personal data in line with UK GDPR. We collect it only for legitimate charity purposes,
+store it securely with access limited to authorised trustees, keep it only as long as we need it, and
+respect your rights to access, correct or delete it. To make a request, email
+[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Data%20request).
+
+### Safety at our events
+
+We complete a risk assessment for every event and activity, maintain appropriate adult-to-child
+supervision ratios, provide first aid at events, and hold public liability insurance.
 
 ## Our finances
 
