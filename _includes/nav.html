@@ -1,6 +1,8 @@
 <header class="site-header{% unless page.transparent_header %} solid{% endunless %}">
   <div class="wrap">
-    <a class="brand" href="{{ '/' | relative_url }}">Project Possibility</a>
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Project Possibility, home">
+      {% include brand/wordmark.svg %}
+    </a>
 
     <button type="button" class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="site-nav">
       <span></span><span></span><span></span>
