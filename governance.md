@@ -71,8 +71,11 @@ Charity Commission for England and Wales on **23 October 2023** under charity nu
 **{{ site.charity_number }}**.
 
 A foundation CIO is run by its trustees, who are its only members. There is no wider voting
-membership. Our governing document requires a minimum of three trustees, and the trustees must meet
-at least twice a year.
+membership. Our governing document requires a minimum of three trustees. It sets a floor of two
+trustee meetings a year, and in practice the trustees meet at least quarterly.
+
+Major decisions, including new projects and significant expenditure, need full board approval.
+Decisions are made by majority vote, and minutes are taken and approved at the following meeting.
 
 The charity is run by its three trustees, supported by volunteers.
 
@@ -86,9 +89,17 @@ Trustees are responsible for controlling the work, management and administration
 | James Frecknall | Trustee |
 | Andrew Connolly | Trustee |
 
-**No trustee receives any remuneration, payment or benefit from the charity.** Our governing document
-restricts trustee benefit, and trustees must declare any conflict of interest and withdraw from the
-relevant discussion and vote.
+**No trustee receives any remuneration, payment or benefit from the charity.** Trustees give their
+time voluntarily.
+
+They may reclaim reasonable out-of-pocket expenses actually incurred on charity business, such as
+travel at HMRC mileage rates or materials bought for a project. Every claim needs a receipt, has to
+be approved by a trustee other than the person claiming, and is recorded in the meeting minutes.
+
+Trustees complete an annual declaration of interests, covering business relationships, employment and
+family connections, and must declare new interests as they arise. A trustee with an interest in
+something under discussion cannot vote on it and may be asked to leave that part of the meeting.
+Conflicts and the action taken are recorded in the minutes.
 
 ## Our policies
 
@@ -103,9 +114,10 @@ The charity holds the following policies, reviewed by the trustees:
 
 This list is as recorded on our
 [Charity Commission register entry](https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5226236).
-The complaints, risk management and social media procedures sit together in our Operations Policy,
-approved in January 2026 and next reviewed in January 2027. If you'd like to ask about any of them,
-email [{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Policy%20enquiry).
+In practice they sit in two documents, both approved in January 2026 and next reviewed in January
+2027: a Financial Controls and Governance Policy, and an Operations Policy covering complaints, risk
+and social media. If you'd like to ask about any of them, email
+[{{ site.contact_email }}](mailto:{{ site.contact_email }}?subject=Policy%20enquiry).
 
 ### Safeguarding
 
@@ -168,6 +180,21 @@ which is always the current source for our figures.
 
 We have no trading subsidiaries. We use [JustGiving]({{ site.justgiving_url }}) as our fundraising
 platform.
+
+### How we look after the money
+
+All funds are held in the charity's own bank account. Payments over £100 need two trustees to
+authorise them, electronic banking requires dual authorisation, and all expenditure is approved by the
+board. We record income and expenditure promptly, keep receipts and invoices for every transaction,
+and retain financial records for at least six years.
+
+Donations are acknowledged in writing and we claim Gift Aid where we are eligible. If a donation is
+given for a specific purpose, we track it separately as a restricted fund and only spend it on that
+purpose.
+
+The trustees review the charity's financial position at every meeting, prepare an annual budget, and
+hold reserves so that we can cover a planned event, insurance and administration, and unexpected
+equipment replacement. Reserves are reviewed quarterly.
 
 ## Registered details
 
