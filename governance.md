@@ -66,9 +66,9 @@ Trustees are responsible for controlling the work, management and administration
 
 | Trustee | Role |
 |---|---|
-| Dr Robert John Simpson | Trustee |
-| James Richard Frecknall | Trustee |
-| Andrew Henry Connolly | Trustee |
+| Dr Robert Simpson | Trustee |
+| James Frecknall | Trustee |
+| Andrew Connolly | Trustee |
 
 **No trustee receives any remuneration, payment or benefit from the charity.** All trustees are volunteers.
 
@@ -106,16 +106,10 @@ the [Charity Commission](https://www.gov.uk/complain-about-charity).
 
 ## Our finances
 
-Our financial year ends on 31 March. Figures for the year ending **31 March 2025**:
-
-| | |
-|---|---|
-| Total income | £1,719 |
-| Total expenditure | £1,000 |
-
-We are a small charity and our reporting to the Charity Commission is up to date. Full accounts and
-annual returns are published on our
-[Charity Commission register entry](https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5226236).
+Our financial year ends on 31 March. We are a small charity and our reporting to the Charity
+Commission is up to date. Our full accounts and annual returns are published on our
+[Charity Commission register entry](https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5226236),
+which is always the current source for our figures.
 
 We have no trading subsidiaries. Donations are handled by
 [JustGiving]({{ site.justgiving_url }}), so we never process card payments ourselves.
