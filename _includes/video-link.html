@@ -1,3 +1,17 @@
+{% comment %}
+Fallback for YouTube videos where the owner has disabled embedding
+(playableInEmbed: false). Renders a real thumbnail with a play badge that
+opens YouTube, rather than an iframe that would show "Video unavailable".
+
+Check before using:
+  curl -s "https://www.youtube.com/watch?v=<ID>" | grep -o '"playableInEmbed":[a-z]*'
+
+Grab a thumbnail with:
+  curl -o assets/img/<name>-thumb.jpg "https://i.ytimg.com/vi/<ID>/maxresdefault.jpg"
+  (fall back to hqdefault.jpg if maxres 404s)
+
+Usage: {% include video-link.html id="ID" title="Title" thumb="/assets/img/x.jpg" %}
+{% endcomment %}
 <a class="video-link" href="https://youtu.be/{{ include.id }}" rel="noopener" aria-label="Watch on YouTube: {{ include.title }}">
   <img src="{{ include.thumb | relative_url }}" alt="{{ include.title }}" loading="lazy">
   <span class="video-link-play" aria-hidden="true"></span>

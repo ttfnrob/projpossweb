@@ -27,7 +27,7 @@ We talked with Year 5 about the history of messages sent into space, and about w
 
 ## A message for the world
 
-{% include video-link.html id="LPwg5GbtVcw" title="Teamwork-1 Message" thumb="/assets/img/teamwork1-message-thumb.jpg" %}
+{% include video.html id="LPwg5GbtVcw" title="Teamwork-1 Message" %}
 
 <p class="video-caption">The message the children chose to broadcast from the edge of space.</p>
 
