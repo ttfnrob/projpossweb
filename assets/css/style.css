@@ -141,13 +141,27 @@ p { margin: 0 0 1.1em; }
   gap: 1rem;
 }
 .brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
   font-weight: 600;
   font-size: 1.05rem;
   color: var(--white);
   letter-spacing: -0.01em;
   z-index: 2;
+  text-decoration: none;
 }
 .site-header.solid .brand { color: var(--ink); }
+.brand-mark {
+  width: 36px;
+  height: auto;
+  display: block;
+  flex: none;
+}
+/* white mark over the transparent header, ink mark on the solid white header */
+.brand-mark--dark { display: none; }
+.site-header.solid .brand-mark--light { display: none; }
+.site-header.solid .brand-mark--dark { display: block; }
 
 /* burger */
 .nav-toggle {
@@ -269,9 +283,9 @@ body.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate
 .hero-logo {
   display: block;
   width: 78%;
-  max-width: 340px;
+  max-width: 400px;
+  height: auto;
   margin: 0 auto 1.2rem;
-  filter: brightness(0) invert(1);
 }
 .hero .lede {
   font-size: 1.05rem;
@@ -706,7 +720,7 @@ a.card:hover { border-color: var(--orange); }
   .site-header.solid .site-nav > a:not(.btn) { color: var(--ink); }
 
   .hero { min-height: 640px; padding-top: var(--header-h); }
-  .hero-logo { max-width: 430px; }
+  .hero-logo { max-width: 480px; }
   .hero .lede { font-size: 1.2rem; }
 
   .cards { grid-template-columns: repeat(3, 1fr); }

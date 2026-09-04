@@ -8,7 +8,7 @@ description: "Project Possibility helps young people believe in themselves and e
 
 <section class="hero" style="background-image: url('{{ '/assets/img/hero-rocket.jpg' | relative_url }}');">
   <div class="hero-content">
-    <img class="hero-logo" src="{{ '/assets/img/logo-transparent.png' | relative_url }}" alt="Project Possibility">
+    <img class="hero-logo" src="{{ '/assets/img/brand/logo-lockup-hero.png' | relative_url }}" alt="Project Possibility" width="2132" height="560">
     <h1 class="visually-hidden">Project Possibility</h1>
     <p class="lede">Helping young people believe in themselves and each other</p>
     <div class="hero-actions">
