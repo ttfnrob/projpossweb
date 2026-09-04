@@ -85,9 +85,9 @@ Trustees are responsible for controlling the work, management and administration
 
 | Trustee | Role |
 |---|---|
-| Dr Robert Simpson | Trustee |
-| James Frecknall | Trustee |
-| Andrew Connolly | Trustee |
+| James Frecknall | Chairperson, and Designated Safeguarding Lead |
+| Andrew Connolly | Secretary |
+| Dr Robert Simpson | Treasurer |
 
 **No trustee receives any remuneration, payment or benefit from the charity.** Trustees give their
 time voluntarily.
@@ -134,7 +134,7 @@ If a child is at immediate risk of harm, **call the police on 999** first.
 
 Otherwise, contact our Designated Safeguarding Lead:
 
-**James Frecknall**, Trustee and Designated Safeguarding Lead
+**James Frecknall**, Chairperson and Designated Safeguarding Lead
 [james@projectpossibility.uk](mailto:james@projectpossibility.uk?subject=Safeguarding%20concern)
 
 You can also raise a concern directly with Milton Keynes Children's Services, the Multi-Agency
